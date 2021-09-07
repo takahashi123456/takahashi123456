@@ -1,13 +1,13 @@
 ### Hi there 👋
 ### Yuki.H
 ### Currently studying programming.
+##一緒に勉強していきましょう🥴🥴🥴
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=takahashi123456&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takahashi123456&layout=compact" />
 </a>
-
 
 
 <!--
