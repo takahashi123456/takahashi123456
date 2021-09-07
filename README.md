@@ -2,7 +2,7 @@
 ### Yuki.H
 ### Currently studying programming.
 
-###一緒に勉強していきましょう🥴🥴🥴
+<h2>一緒に勉強していきましょう🥴🥴🥴</h2>
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
