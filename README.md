@@ -4,6 +4,9 @@
 
 <h4>一緒に勉強していきましょう🥴🥴🥴</h4>
 <br>
+<h4>study now </h4>
+<p>ts-React,next.js...</p>
+
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=takahashi123456&count_private=true&show_icons=true" />
