@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ### Yuki.H
 ### Currently studying programming.
 
