@@ -1,12 +1,13 @@
 
 ### Yuki.H
+### 神戸電子専門学校
 ### Currently studying programming.
 
 <h4>一緒に勉強していきましょう🥴🥴🥴</h4>
 <br>
 <h4>study now </h4>
 <p>ts-React,next.js...</p>
-
+<p>takahashi123456,inazawakeisukeなどのペンネームで色々発信しています。 https://qiita.com/inazawaKeisuke</p>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=takahashi123456&count_private=true&show_icons=true" />
