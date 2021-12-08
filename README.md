@@ -1,5 +1,5 @@
 
-### Yuki.H
+### 本名(イニシャル)：Yuki.H
 ### 神戸電子専門学校
 ### Currently studying programming.
 
