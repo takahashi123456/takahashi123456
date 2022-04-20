@@ -16,7 +16,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takahashi123456&layout=compact" />
 </a>
 
-<src="https://github.com/takahashi123456/prof/blob/master/detail.png">
+<img src="https://github.com/takahashi123456/prof/blob/master/detail.png">
 
 <!--
 **takahashi123456/takahashi123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
