@@ -3,7 +3,7 @@
 
 <h4>一緒に勉強していきましょう🥴🥴🥴</h4>
 <br>
-<h4>study now </h4>
+<h4>Backend engineer </h4>
 <p>ts-React,next.js...</p>
 <p>takahashi123456,inazawakeisukeなどのペンネームで色々発信しています。 https://qiita.com/inazawaKeisuke</p>
 <br>
