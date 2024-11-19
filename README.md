@@ -5,7 +5,7 @@
 <br>
 <h4>Backend engineer </h4>
 <p>ts-React,next.js...</p>
-<p>takahashi123456,inazawakeisukeなどのペンネームで色々発信しています。 [https://qiita.com/yuki_H_Web](https://qiita.com/yuki_H_Web)</p>
+<p>takahashi123456,inazawakeisukeなどのペンネームで色々発信しています。 https://qiita.com/yuki_H_Web</p>
 
 
 <br>
